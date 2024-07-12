@@ -2,5 +2,7 @@ New git.
 
 You are my first git file.
 
+Thanks for the changes
+
 
 
